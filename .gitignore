@@ -2,3 +2,4 @@ ebin
 *~
 rel/lswitch
 deps
+.rebar
